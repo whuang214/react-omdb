@@ -1,6 +1,6 @@
 # OMDB React Testing
 
-This was created to test the OMDB API with React
+This application was designed to test the OMDB API with React
 
 ## Prerequisites
 
